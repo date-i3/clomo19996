@@ -37,7 +37,7 @@
 	<tr><td>docx：<a href="../data/000_apllink/テストてすと試験.docx">docx</a></td></tr>
 	<tr><td>ppt：<a href="../data/000_apllink/テストてすと試験.ppt">ppt</a></td></tr>
 	<tr><td>pptx：<a href="../data/000_apllink/テストてすと試験.pptx">pptx</a></td></tr>
-	<tr><td>mp4：<a href="../data/000_apllink/テストてすと試験.mp4">mp4</a></td></tr>
+	<tr><td>mp4：<a href="../000_apllink/テストてすと試験.mp4">mp4</a></td></tr>
 	<tr><td>3gp：<a href="../data/000_apllink/テストてすと試験.3gp">3gp</a></td></tr>
 	<tr><td>txt：<a href="../data/000_apllink/テストてすと試験.txt">txt</a></td></tr>
 	<tr><td>rtf：<a href="../data/000_apllink/テストてすと試験.rtf">rtf</a></td></tr>
